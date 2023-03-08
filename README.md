@@ -1,0 +1,1 @@
+# İnstagram clone projesi bootstrap ile düzeltildi.
